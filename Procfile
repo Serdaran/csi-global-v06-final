@@ -1,0 +1,1 @@
+web: streamlit run CSI_GLOBAL_v06_final.py --server.port=10000 --server.address=0.0.0.0
