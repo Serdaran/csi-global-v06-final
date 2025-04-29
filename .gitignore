@@ -1,0 +1,10 @@
+# Gizli anahtar dosyaları
+*.json
+
+# IDE ayarları
+.vscode/
+*.code-workspace
+
+# Derlenmiş Python dosyaları
+__pycache__/
+*.py[cod]
